@@ -14,8 +14,11 @@ sudo ./dep_satisfier.sh [OPTIONS] <package-name>
 
 Options:
   -d, --dry-run     Show what would be installed without installing anything
+  
   -v, --verbose     Print every dependency as it is resolved
+  
   -l, --log FILE    Log file path (default: /var/log/dep_satisfier.log)
+  
   -h, --help        Show this help message
 
 # Examples
