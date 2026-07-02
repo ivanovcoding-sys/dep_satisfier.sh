@@ -24,7 +24,6 @@ sudo ./dep_satisfier.sh ffmpeg
 sudo ./dep_satisfier.sh --dry-run nginx
 
 sudo ./dep_satisfier.sh --verbose --log ~/my.log curl
-\```
 
 ## Requirements
 
