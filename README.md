@@ -8,7 +8,7 @@ the correct order.
 
 ## Usage
 
-\```bash
+bash
 git clone https://github.com/ivanovcoding-sys/dep_satisfier.sh.git
 sudo ./dep_satisfier.sh [OPTIONS] <package-name>
 
